@@ -1,5 +1,3 @@
-# Hi I'm Ruthie
-
 |I was born in the 70's. Didn't have a computer | I didn't know better
 |:-------------|:------------------|
 |  Then in the 80's I played King's Quest 3     |![rrr](./assets/kingsquest3.png)|
