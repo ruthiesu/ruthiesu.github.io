@@ -1,15 +1,12 @@
 # Hi I'm Ruthie
 
-I was born in the 70's. Didn't have a computer
+I was born in the 70's. Didn't have a computer, and then I did. So:
 
-Then in the 80's I played King's Quest 3
+|  Then in the 80's I played King's Quest 3     |![rrr](./assets/kingsquest3.png)|
+|:-------------|:------------------|
+| Then in the 90's I played Warcraft 2 |![rrr](./assets/warcraft2.png)|
+| Then in the 2000's I played Civilization | ![rrr](./assets/civ2.png)|
+| Then in the 2010's I played Widelands |![rrr](./assets/widelands.png) |
+| Then in the 2020's I play Polytopia |![rrr](./assets/polytopia.png) |
 
-Then in the 90's I played Civilization and Warcraft
 
-Then in the 2000's I played 
-
-Then in the 2010's I played Widelands
-
-Then in the 2020's I play Polytopia
-
-![rrr](./images/kingsquest3.png){: width="50" }
