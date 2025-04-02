@@ -4,8 +4,6 @@
 | Then in the 90's I played Warcraft 2 |![rrr](./assets/warcraft2.png)|
 | Then in the 2000's I played Civilization | ![rrr](./assets/civ2.png)|
 | Then in the 2010's I played Widelands |![rrr](./assets/widelands.png) |
-| Then in the 2020's I play Polytopia |![rrr](./assets/polytopia.png) |
+| Now in the 2020's I play Polytopia |![rrr](./assets/polytopia.png) |
 
 Here to have fun! :)
-
-
