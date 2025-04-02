@@ -9,4 +9,6 @@ I was born in the 70's. Didn't have a computer, and then I did. So:
 | Then in the 2010's I played Widelands |![rrr](./assets/widelands.png) |
 | Then in the 2020's I play Polytopia |![rrr](./assets/polytopia.png) |
 
+Here to have fun! :)
+
 
